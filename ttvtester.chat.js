@@ -9,4 +9,7 @@
 // @require       http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js
 // ==/UserScript==
 
-$("nav.js-nav").prepend(<li><a>"Test123"</a></li>;)
+(function() {
+    'use strict';
+      $("nav.js-nav").prepend(<li><a>"Test123"</a></li>;)
+})();
