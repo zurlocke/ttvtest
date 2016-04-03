@@ -1,14 +1,12 @@
 // ==UserScript==
 // @name         ttvtest
 // @namespace    http://tampermonkey.net/
-// @version      0.1.1
+// @version      0.1.2
 // @description  ttvtesting
 // @author       zurlocke
 // @include      https://www.twitch.tv/directory/following
 // @updateURL    https://raw.githubusercontent.com/zurlocke/ttvtest/master/ttvtester.chat.js
 // @require      http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js
-// @require      https://cdn.betterttv.net/style/stylesheets/betterttv.css?6.8R44
-// @require      https://cdn.betterttv.net/style/stylesheets/betterttv-dark.css?6.8R44
 // ==/UserScript==
 
 (function() {
