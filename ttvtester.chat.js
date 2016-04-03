@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ttvtest
 // @namespace    http://tampermonkey.net/
-// @version      0.1.2
+// @version      0.1.3
 // @description  ttvtesting
 // @author       zurlocke
 // @include      https://www.twitch.tv/directory/following
