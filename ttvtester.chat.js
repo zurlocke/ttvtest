@@ -12,5 +12,6 @@
 (function() {
     'use strict';
 
-    $("nav.js-nav").prepend("<li><a>Test123</a></li>");
+    $(".directory_header").prepend("<h2 class='title2'>Test123</h2>");
+    $(".nav.js-nav").prepend("<li><a>Test123</a></li>");
 })();
