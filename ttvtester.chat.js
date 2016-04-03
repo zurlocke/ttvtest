@@ -6,7 +6,7 @@
 // @author       zurlocke
 // @include      https://www.twitch.tv/directory/following
 // @updateURL    https://raw.githubusercontent.com/zurlocke/ttvtest/master/ttvtester.chat.js
-// @require      http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js
+// @require      https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js
 // ==/UserScript==
 
 (function() {
